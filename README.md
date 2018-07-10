@@ -20,7 +20,7 @@ See the [documentation][documentation] with live editable examples.
 
 ## Local setup
 
-Yarn is the our package manager of choice here. Check out setup
+Yarn is the package manager of choice here. Check out setup
 instructions [here](https://yarnpkg.com/en/docs/install) if you don't have it installed already.
 After that you can run `yarn run bootstrap` to install all the needed dependencies.
 
